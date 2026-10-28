@@ -1,0 +1,28 @@
+{
+  "audio_bytes": 1469606154,
+  "audio_formats": [
+    {
+      "bits_per_sample": 16,
+      "channels": 1,
+      "fragments": 22788,
+      "sample_rate": 16000
+    }
+  ],
+  "fragments": 22788,
+  "labels": {
+    "0": "negative, including wrongdog",
+    "1": "bark or yap"
+  },
+  "partitions": {
+    "test": {
+      "fragments": 4604
+    },
+    "train": {
+      "fragments": 15993
+    },
+    "validation": {
+      "fragments": 2191
+    }
+  },
+  "release_id": "ecd74a11633fcf72"
+}
